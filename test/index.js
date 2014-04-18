@@ -1,6 +1,5 @@
 var tape = require('tape')
 var parse = require('parse-svg-path')
-var s = require('serialize-svg-path')
 var scale = require('../')
 
 var straight = parse('M10 10 L15 15')
