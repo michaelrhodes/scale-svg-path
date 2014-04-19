@@ -1,6 +1,6 @@
 {
   "name": "scale-svg-path",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Scales an SVG path along its X/Y axes.",
   "main": "index.js",
   "directories": {

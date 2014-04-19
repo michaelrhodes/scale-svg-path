@@ -5,6 +5,8 @@ scale-svg-path scales the position of a [parsed SVG path](https://github.com/jkr
 
 [![Browser support](https://ci.testling.com/michaelrhodes/scale-svg-path.png)](https://ci.testling.com/michaelrhodes/scale-svg-path)
 
+<small>Older browsers might require a polyfill for [Array.prototype.map](http://kangax.github.io/es5-compat-table/#Array.prototype.map).</small>
+
 ## Install
 ```sh
 $ npm install scale-svg-path
